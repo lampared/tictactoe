@@ -13,7 +13,7 @@ XWinMoves = [
     ["X","X",""]
 ]
 
-def changesomethong():
+def changesomething():
     pass
 
 def checkValue(m,p):
