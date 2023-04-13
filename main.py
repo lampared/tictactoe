@@ -13,6 +13,9 @@ XWinMoves = [
     ["X","X",""]
 ]
 
+def changesomethong():
+    pass
+
 def checkValue(m,p):
   r=math.ceil(p/3)-1
   c=(p-(r*3))-1
