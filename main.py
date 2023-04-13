@@ -14,7 +14,7 @@ XWinMoves = [
 ]
 
 def changesomething():
-    print ("Test03")
+    print ("Test07")
 
 def checkValue(m,p):
   r=math.ceil(p/3)-1
